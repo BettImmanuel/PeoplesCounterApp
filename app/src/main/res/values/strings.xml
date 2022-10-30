@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PeoplesCounterApp</string>
+    <string name="click_me">Click Me</string>
+    <string name="counts">Counts</string>
+    <string name="clear">CLEAR</string>
+</resources>
